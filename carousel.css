@@ -50,7 +50,7 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 550px;
+  height: 560px;
   background-color:#000000;
 }
 .carousel-inner > .item > img {
@@ -69,11 +69,11 @@ width:20%;
 
 
 .hov {
-		background-image:url('med1.png');
+		background-image:url('med11.png');
 		width:16px;
 		height:16px;
 		background-repeat:no-repeat;
-		margin-top:9px;
+		margin-top:8px;
 		
 		background-position:center;
 }
