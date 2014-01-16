@@ -61,6 +61,13 @@ body {
   height: 500px;
 }
 /*new div*/
+.roundcorner {
+background-color:#FFFFFF; 
+width:20%;
+}
+
+
+
 .hov {
 		background-image:url('med3.png');
 		width:12px;
