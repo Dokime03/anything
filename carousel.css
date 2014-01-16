@@ -69,13 +69,12 @@ width:20%;
 
 
 .hov {
-		background-image:url('med3.png');
-		width:12px;
-		height:12px;
+		background-image:url('med1.png');
+		width:16px;
+		height:16px;
 		background-repeat:no-repeat;
-		margin-top:10px;
-		margin-right:7px;
-		margin-left:12px;
+		margin-top:9px;
+		
 		background-position:center;
 }
 /*ends*/
